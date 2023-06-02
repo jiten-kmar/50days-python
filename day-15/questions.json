@@ -1,0 +1,7 @@
+[{"question_text":  "what are doplphins?",
+  "Alternatives" : ["Ambi","Fish","mammals","Birds"],
+  "correct_answer": 3 },
+{"question_text":  "what occupies most of the surface: ?",
+  "Alternatives" : ["land","water"],
+  "correct_answer": 2 }
+]
